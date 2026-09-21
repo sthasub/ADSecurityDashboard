@@ -2,7 +2,7 @@ const ActiveDirectory = require('activedirectory2');
 
 // AD Connection Configuration
 const config = {
-    url: 'ldap://192.168.10.10',           // Your DC IP Address
+    url: 'ldap://192.168.17.128',           // Your DC IP Address
     baseDN: 'dc=lab,dc=local',             // Your Domain
     username: 'admin@lab.local',          // Service Account
     password: 'Password123!'
