@@ -1,0 +1,4 @@
+SamAccountName,GivenName,Surname,Department,Password
+jsmith,John,Smith,Engineering,TempPass123!
+jdoe,Jane,Doe,Finance,TempPass123!
+amiller,Alice,Miller,Security,TempPass123!
